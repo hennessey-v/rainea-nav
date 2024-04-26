@@ -2,13 +2,13 @@
 	"base": {
 		"app_name": "Rainea Index",
 		"web_host": "https://hapy.eu.org",
-		"logo": "https://rainea-public.s3.bitiful.net/img/62317307.jpg"
+		"logo": "https://rainea-public.s3.bitiful.net/img/shuibiao.png"
 	},
 	"seo": {
 		"title": "Rainea 导航站",
 		"description": "Rainea 个人导航站",
 		"keywords": "Rainea, 个人建站",
-		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
+		"icon": "https://rainea-public.s3.bitiful.net/img/shuibiao.png"
 	},
 	"header": {
 		"search": {
