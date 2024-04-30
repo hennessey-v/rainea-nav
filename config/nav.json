@@ -1551,29 +1551,6 @@
 						"is_show": true
 					}
 				]
-			},
-			{
-				"tab_name": "其他服务",
-				"details": [
-					{
-						"title": "Qinglong",
-						"ori_url": "http://47.109.192.21:5700/",
-						"url": "http://47.109.192.21:5700/",
-						"icon": "https://qn.whyour.cn/favicon.svg",
-						"description": "",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "青龙Tools",
-						"ori_url": "http://47.109.192.21:5701/",
-						"url": "http://47.109.192.21:5701/",
-						"icon": "http://47.109.192.21:5701/static/favicon.ico",
-						"description": "",
-						"suffix": false,
-						"is_show": true
-					}
-				]
 			}
 		]
 	}
