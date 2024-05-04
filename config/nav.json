@@ -15,6 +15,15 @@
 						"description": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "期刊杂志",
+						"ori_url": "http://qikan.lifves.com/",
+						"url": "http://qikan.lifves.com/",
+						"icon": "https://www.lifves.com/favicon.ico",
+						"description": "于千万人之中遇见你所遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻的问一声：“哦，你也在这里吗？”",
+						"suffix": false,
+						"is_show": true
 					}
 				]
 			},
@@ -1527,6 +1536,154 @@
 						"icon": "https://img.fre123.com/i/2024/02/24/65da117e9d77a.ico",
 						"description": "由Hazx精心整理的新番表，详细展示本季度所有新番的播放时间与可观看站点。",
 						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "游戏",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "饥荒",
+				"details": [
+					{
+						"title": "科雷官网",
+						"ori_url": "https://accounts.klei.com/login",
+						"url": "https://accounts.klei.com/login",
+						"icon": "https://accounts.klei.com/favicon.ico",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "科雷服务器状态",
+						"ori_url": "https://status.kleientertainment.com/",
+						"url": "https://status.kleientertainment.com/",
+						"icon": "https://status.kleientertainment.com/imgs/favicon.ico",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "能力勋章介绍页",
+						"ori_url": "https://www.guanziheng.com/",
+						"url": "https://www.guanziheng.com/",
+						"icon": "https://www.guanziheng.com/img/favicon.ico",
+						"description": "饥荒联机版《能力勋章》官方介绍页，最新最全的内容都在这里~",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "饥荒直播皮肤时长查看",
+						"ori_url": "https://www.bilibili.com/blackboard/live/starve-2020-pc.html",
+						"url": "https://www.bilibili.com/blackboard/live/starve-2020-pc.html",
+						"icon": "https://wu-c.cn/dst_gift_introduction/images/favicon.ico",
+						"description": "饥荒联机版直播皮肤时长查看",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "自动挂皮肤档 | 攻略",
+						"ori_url": "https://wu-c.cn/dst_gift_introduction/",
+						"url": "https://wu-c.cn/dst_gift_introduction/",
+						"icon": "https://wu-c.cn/dst_gift_introduction/images/favicon.ico",
+						"description": "【瞎玩·自动挂皮肤档】一起钓鱼换金子捡种子建造盛夏鸦年华乐园！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "饥荒联机版服务器列表",
+						"ori_url": "https://dstserverlist.top/",
+						"url": "https://dstserverlist.top/",
+						"icon": "https://dstserverlist.top/favicon.ico",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "部落冲突",
+				"details": [
+					{
+						"title": "部落驿站",
+						"ori_url": "https://clashpost.com/",
+						"url": "https://clashpost.com/",
+						"icon": "https://static.clashpost.com/favicon.svg",
+						"description": "部落驿站（原部落冲突指导）是一个百科类网站，不管是下载游戏、查数据，还是看攻略，这个网站都能满足你，快来看看吧！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "OPPO渠道",
+						"ori_url": "http://update.coc.gameark.cn/?channel=oppo",
+						"url": "http://update.coc.gameark.cn/?channel=oppo",
+						"icon": "https://f-cn-1.kunlun.com/coc/images/favicon.png",
+						"description": "《部落冲突》Update页面",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Atrasis",
+						"ori_url": "https://atrasisclash.net/zh/servers/ultimate/",
+						"url": "https://atrasisclash.net/zh/servers/ultimate/",
+						"icon": "data:image/png;base64,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",
+						"description": "《部落冲突》私服",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Null’s",
+						"ori_url": "https://nulls-brawl.com/download/",
+						"url": "https://nulls-brawl.com/download/",
+						"icon": "https://nulls-brawl.com/wp-content/uploads/2022/06/NB-Link.png",
+						"description": "《部落冲突》私服",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "其他",
+				"details": [
+					{
+						"title": "植物僵尸相关下载",
+						"ori_url": "http://lonelystar.org/ResDownload/1_PC_C.htm",
+						"url": "http://lonelystar.org/ResDownload/1_PC_C.htm",
+						"icon": "http://lonelystar.org/ResDownload/pic/icon/1/Plants-Vs-Zombies.png",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "星空之旅|植物大战僵尸JAVASCRIPT版|JSPVZ",
+						"ori_url": "http://lonelystar.org/",
+						"url": "http://lonelystar.org/",
+						"icon": "http://lonelystar.org/favicon.ico",
+						"description": "植物大战僵尸网页版是LonelyStar个人制作的纯JavaScript植物大战僵尸小游戏，欢迎收藏JavaScript植物大战僵尸小游戏，分享js植物大战僵尸小游戏的快乐。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "deadcells",
+						"ori_url": "https://deadcells.fandom.com/wiki/Dead_Cells_Wiki",
+						"url": "https://deadcells.fandom.com/wiki/Dead_Cells_Wiki",
+						"icon": "https://static.wikia.nocookie.net/deadcells_gamepedia_en/images/4/4a/Site-favicon.ico/revision/latest?cb=20210601142619",
+						"description": "《死亡细胞》Wiki",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "minecraft",
+						"ori_url": "https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki",
+						"url": "https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki",
+						"icon": "https://static.wikia.nocookie.net/minecraft_zh_gamepedia/images/4/4a/Site-favicon.ico/revision/latest?cb=20211229051629",
+						"description": "《minecraft》Wiki",
+						"suffix": false,
 						"is_show": true
 					}
 				]
