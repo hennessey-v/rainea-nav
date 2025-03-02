@@ -1700,9 +1700,18 @@
 				"details": [
 					{
 						"title": "Alist",
-						"ori_url": "http://47.109.192.21:5244/",
-						"url": "http://47.109.192.21:5244/",
+						"ori_url": "https://alist.hapy.eu.org/",
+						"url": "https://alist.hapy.eu.org/",
 						"icon": "https://jsd.nn.ci/gh/alist-org/logo@main/logo.png",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "UptimeFlare",
+						"ori_url": "https://uptime.hapy.eu.org/",
+						"url": "https://uptime.hapy.eu.org/",
+						"icon": "",
 						"description": "",
 						"suffix": false,
 						"is_show": true
